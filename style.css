@@ -132,7 +132,7 @@ nav ul{
   color:white;
   width:30%;
   height: 150px;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 
 
@@ -164,7 +164,7 @@ nav ul{
   height: 40%;
   margin-left: 5%;
   margin-top: 5%;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 #description-img-1-text{
   color:black;
@@ -173,7 +173,7 @@ nav ul{
 
 #description-img-2{
   background: linear-gradient(beige ,antiquewhite, #dbb856);
-  overflow: scroll;
+  overflow-y: scroll;
   border-radius: 10px;
 }
 
@@ -269,7 +269,6 @@ nav ul{
   border-radius: 10px;
   position: relative;
   color: black;
-  overflow: scroll;
 }
 
 .close-sign{
